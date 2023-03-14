@@ -1,0 +1,23 @@
+.titulo{
+    text-align: center;
+}
+
+.texto{
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.icono{
+    width: 100px;
+    height: 100px;
+    vertical-align: middle;
+}
+
+.lista{
+    list-style-type: none;
+    text-align: center;
+}
+
+.volver{
+    text-align: right;
+}
